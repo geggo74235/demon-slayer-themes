@@ -1,0 +1,88 @@
+/**
+* @name GIYU TOMIOKA Aesthetic
+* @version v1.0
+* @description Giyu tomioka (Water HASHIRA) theme for better discord by Rekiboi
+* @author RekiBoii
+* @invite https://discord.gg/T3yKU7Wdsq
+*/
+@import url("https://clearvision.gitlab.io/v6/main.css");
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display');
+:root {
+--main-color: #27B9E6FF;
+--hover-color: #22ACC9FF;
+--success-color: #28B8DEFF;
+--danger-color: #982929;
+--url-color: #2780e6;
+--online-color: #1EE009FF;
+--idle-color: #faa61a;
+--dnd-color: #982929;
+--streamig-color: #02C8CBFF;
+--offline-color: #808080;
+--main-font: 'Noto Sans Display';
+--code-font: 'Noto Sans Display';
+--text-normal: #dcdddeff;
+--text-muted: #D11515FF;
+--channels-width: 237px;
+--members-width: 184px;
+--background-shading: 0%;
+--background-overlay: #00000099;
+--background-image: url('https://i.imgur.com/9nLHqXL.jpg');
+--background-size: contain;
+--background-position: center;
+--background-repeat: no-repeat;
+--background-attachment: fixed;
+--background-brightness: 100%;
+--background-constrast: 100%;
+--background-saturation: 100%;
+--background-invert: 0%;
+--background-grayscale: 0%;
+--background-sepia: 0%;
+--background-blur: 0px;
+--home-icon: url('https://i.imgur.com/Ovs4nc6.jpg');
+--home-position: center;
+--home-size: 50px;
+--background-overlay: #00000099;
+--backdrop-image: url('https://i.imgur.com/sFon0F4.jpg');
+--backdrop-image: center;
+--backdrop-size: contain;
+--backdrop-repeat: repeat;
+--backdrop-attachment: fixed;
+--backdrop-brightness: 100%;
+--backdrop-constrast: 100%;
+--backdrop-saturation: 100%;
+--backdrop-invert: 0%;
+--backdrop-grayscale: 0%;
+--backdrop-sepia: 0%;
+--backdrop-blur: 0px;
+--user-popout-image: url('https://i.imgur.com/S5VZqJz.jpg');
+--user-popout-image: center;
+--user-popout-size: contain;
+--user-popout-repeat: repeat;
+--user-popout-attachment: fixed;
+--user-popout-brightness: 100%;
+--user-popout-constrast: 100%;
+--user-popout-saturation: 100%;
+--user-popout-invert: 0%;
+--user-popout-grayscale: 0%;
+--user-popout-sepia: 0%;
+--user-popout-blur: 0px;
+--user-popout-overlay: #000000a6;
+--user-modal-image: url('https://i.imgur.com/kfmOvov.jpg');
+--user-modal-image: center;
+--user-modal-size: contain;
+--user-modal-repeat: repeat;
+--user-modal-attachment: fixed;
+--user-modal-brightness: 100%;
+--user-modal-constrast: 100%;
+--user-modal-saturation: 100%;
+--user-modal-invert: 0%;
+--user-modal-grayscale: 0%;
+--user-modal-sepia: 0%;
+--user-modal-blur: 25px;
+--bd-blue: #3A76E6FF;
+--bd-blue-hover: #1e63b3;
+--bd-blue-active: #1e63b3;
+--HSL-server-icon-size: 34px;
+--HSL-server-spacing: 12px;
+}
